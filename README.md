@@ -13,8 +13,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="License" src="![image](https://user-images.githubusercontent.com/47367373/221290589-df626776-c7fb-47a5-b298-2d5430743be1.png)
-">
+  <img alt="License" src="https://user-images.githubusercontent.com/47367373/221290589-df626776-c7fb-47a5-b298-2d5430743be1.png">
 </p>
 
 <br>
